@@ -1,4 +1,4 @@
-# Pencil theme for Hyper term
+# Pencil for Hyper term
 
 ![pencil theme](https://raw.githubusercontent.com/wagnermoschini/hyper-pencil/master/screenshot.png)
 
