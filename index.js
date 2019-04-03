@@ -5,7 +5,7 @@ exports.decorateConfig = config => {
 
 		foregroundColor: "#f3f3f3",
 		backgroundColor: "#2c2c2c",
-		// selectionColor: "#c2defd",
+		selectionColor: "#c2defd",
 
 		colors: {
 			black: "#2c2c2c",
