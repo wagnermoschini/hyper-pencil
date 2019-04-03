@@ -1,7 +1,7 @@
 exports.decorateConfig = config => {
 	return Object.assign({}, config, {
-		// cursorColor: "#1ac7fc",
-		// cursorAccentColor: "#151515",
+		cursorColor: "#1ac7fc",
+		cursorAccentColor: "#151515",
 
 		foregroundColor: "#f3f3f3",
 		backgroundColor: "#2c2c2c",
