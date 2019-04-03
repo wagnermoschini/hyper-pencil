@@ -1,0 +1,26 @@
+{
+  "name": "hyper-pencil",
+  "version": "1.0.0",
+  "description": "The pencil theme adapted for hyper term",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wagnermoschini/hyper-pencil.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "theme",
+    "pencil"
+  ],
+  "author": "Wagner Moschini <wagnermoschini@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wagnermoschini/hyper-pencil/issues"
+  },
+  "homepage": "https://github.com/wagnermoschini/hyper-pencil#readme"
+}
