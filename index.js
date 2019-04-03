@@ -24,6 +24,7 @@ exports.decorateConfig = config => {
 			lightMagenta: "#7b6fe4",
 			lightCyan: "#5dc3d5",
 			lightWhite: "#f3f3f3"
-		}
+		},
+		padding: "0px"
 	});
 };
